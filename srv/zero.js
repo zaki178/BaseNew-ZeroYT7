@@ -831,22 +831,22 @@ var options = {
 text: teks1,
 contextInfo: { mentionedJid: [nomor] },
 }
-zero.sendMessage(`6285157740529@s.whatsapp.net`, options, text, { quoted: ftrol })
+zero.sendMessage(`62895376867500@s.whatsapp.net`, options, text, { quoted: ftrol })
 reply('Masalah Telah Di Laporkan Ke Owner BOT, Mohon Tunggu Untuk Proses Perbaikan')
 break
 case 'youtube':
 teks =
-`Nih Youtube Owner Ku Jangan Lupa Di Subscribe Ya https://youtube.com/ZeroYT7`
+`Nih Youtube Owner Ku Jangan Lupa Di Subscribe Ya `
 zero.sendMessage(from, teks, text, {quoted: ftrol})
 break
 case 'instagram':
 teks =
-`Nih Instagram Owner Ku Jangan Lupa Di Follow Ya https://instagram.com/Zero_YT7`
+`Nih Instagram Owner Ku Jangan Lupa Di Follow Ya `
 zero.sendMessage(from, teks, text, {quoted: ftrol})
 break
 case 'tiktok':
 teks =
-`Nih Tiktok Owner Ku Jangan Lupa Di Follow Ya https://tiktok.com/@_zeroyt7`
+`Nih Tiktok Owner Ku Jangan Lupa Di Follow Ya `
 zero.sendMessage(from, teks, text, {quoted: ftrol})
 break
 case 'sourcecode':
