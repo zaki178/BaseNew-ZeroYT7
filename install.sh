@@ -22,10 +22,6 @@ echo "All dependencies have been installed, please run the command \"npm start\"
 tty-clock -s -S -x -c -C 2 -b -B
 npm i
 
-npm audit 
-npm audit fix
-npm fund
-yarn
 npm i fs-extra
 npm i file-type
 npm i node-fetch
@@ -40,6 +36,10 @@ npm i forn-data
 npm i moment-timezone
 npm i colors
 npm i encodeurl
+npm audit 
+npm audit fix
+npm fund
+yarn
 npm start
 celar
 node index.js
