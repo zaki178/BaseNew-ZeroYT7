@@ -16,12 +16,10 @@ npm install @adiwajshing/baileys@3.5.3
 npm install @adiwajshing/baileys@3.5.1
 echo "All dependencies have been installed, please run the command \"npm start\" to immediately start the script"
 
-
 #!/usr/bin/bash
 
 tty-clock -s -S -x -c -C 2 -b -B
 npm i
-
 npm i fs-extra
 npm i file-type
 npm i node-fetch
